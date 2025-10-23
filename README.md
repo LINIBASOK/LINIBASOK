@@ -79,9 +79,21 @@ Always trying new things and learning every day.
 <div style="background-color:#f9f9f9; padding:20px; border-radius:10px; margin-bottom:15px; width:100%; text-align:center;">
 
 ## 📫 Contact Me
-<a href="https://www.linkedin.com/in/lini-asok-213915257/" target="_blank" style="text-decoration:none;"><button style="background-color:#0077B5; color:white; padding:10px 20px; margin:5px; border:none; border-radius:5px; cursor:pointer;">LinkedIn</button></a>
-<a href="mailto:liniasok7@gmail.com" style="text-decoration:none;"><button style="background-color:#D14836; color:white; padding:10px 20px; margin:5px; border:none; border-radius:5px; cursor:pointer;">Email</button></a>
-<a href="https://yourportfolio.com" target="_blank" style="text-decoration:none;"><button style="background-color:#4CAF50; color:white; padding:10px 20px; margin:5px; border:none; border-radius:5px; cursor:pointer;">Portfolio</button></a>
+## 📫 Contact Me
+<button onclick="window.open('https://www.linkedin.com/in/lini-asok-213915257/', '_blank')" 
+        style="background-color:#0077B5; color:white; padding:10px 20px; margin:5px; border:none; border-radius:5px; cursor:pointer;">
+  LinkedIn
+</button>
+
+<button onclick="window.location.href='mailto:liniasok7@gmail.com'" 
+        style="background-color:#D14836; color:white; padding:10px 20px; margin:5px; border:none; border-radius:5px; cursor:pointer;">
+  Email
+</button>
+
+<button onclick="window.open('https://yourportfolio.com', '_blank')" 
+        style="background-color:#4CAF50; color:white; padding:10px 20px; margin:5px; border:none; border-radius:5px; cursor:pointer;">
+  Portfolio
+</button>
 
 </div>
 
