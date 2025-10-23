@@ -1,3 +1,8 @@
+<p align="center">
+  <!-- Floating avatar GIF -->
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="150" alt="Spinning Avatar" />
+</p>
+
 # Hi, I’m Lini B Asok 👋
 *Full Stack Developer | React | Node.js | Java | Spring Boot*  
 
@@ -8,10 +13,10 @@ Always trying new things and learning every day.
 ---
 
 ## 🚀 About Me
-- Passionate about **coding, designing, and problem-solving**
-- Experienced in **Frontend & Backend Development**
-- Always exploring **new technologies and frameworks**
-- Open to **collaboration and freelance projects**
+- Passionate about **coding, designing, and problem-solving**  
+- Experienced in **Frontend & Backend Development**  
+- Always exploring **new technologies and frameworks**  
+- Open to **collaboration and freelance projects**  
 
 ---
 
@@ -70,3 +75,10 @@ Always trying new things and learning every day.
 ### ⚡ Fun Fact
 I combine **art, design, and coding** to create interactive and beautiful applications.  
 Always aiming for **progress, learning, and helping others along the way**.
+
+---
+
+<p align="center">
+  <!-- Emoji rain / floating effect -->
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" />
+</p>
