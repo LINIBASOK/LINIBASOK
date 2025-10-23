@@ -41,7 +41,7 @@ Always trying new things and learning every day.
 ## 📂 Projects
 - [**Portfolio**](https://yourportfolio.com) – Personal portfolio showcasing my projects and journey  
 - [**AI Interview Portal**](https://ai-interview-portal-tech-o8y5.vercel.app/) – Full-stack interview preparation app  
-- [**Other Projects**](https://github.com/LINIBASOK) – Explore all my work on GitHub  
+- [**Other Projects**](https://github.com/LINIBASOK?tab=repositories) – Explore all my work on GitHub  
 
 ---
 
