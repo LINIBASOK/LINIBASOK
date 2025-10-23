@@ -45,7 +45,7 @@ Always trying new things and learning every day.
 <a href="https://wordpress.org/" target="_blank"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
 <a href="https://www.github.com/features/actions" target="_blank"><img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /></a>
 <a href="https://www.chartjs.org/" target="_blank"><img src="https://img.shields.io/badge/Charts.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white" /></a>
-<a href="https://saas.com/" target="_blank"><img src="https://img.shields.io/badge/SaaS-FF8C00?style=for-the-badge&logoColor=white" /></a>
+
 </div>
 
 </div>
