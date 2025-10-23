@@ -32,6 +32,7 @@ Always trying new things and learning every day.
 ![GitHub stars](https://img.shields.io/github/stars/LINIBASOK?style=social)
 ![Top Language](https://img.shields.io/github/languages/top/LINIBASOK/YourRepoName)
 - Completed *Full-Stack Internship* in React Framework
+- 2 years of experience in Full stack development (CTEBS Kochi)
 - 6 months experience in *Selenium Test Automation*
 - Experienced as *Software Test Engineer (QA)* handling test cases & scenarios  
 
