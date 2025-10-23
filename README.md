@@ -4,7 +4,7 @@
 # Hi, I’m Lini B Asok 👋
 *Full Stack Developer | React | Node.js | Java | Spring Boot*  
 
-Currently based in **UAE**, actively exploring new opportunities in **software development and testing**.  
+Currently based in **UAE**, actively exploring new opportunities in **software development**.  
 I love *drawing, cooking, animals*, and building **smart, clean, and creative applications**.  
 Always trying new things and learning every day.  
 
