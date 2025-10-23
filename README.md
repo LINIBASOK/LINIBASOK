@@ -58,7 +58,7 @@ Always trying new things and learning every day.
 ---
 
 ## 📫 Contact Me
-[LinkedIn](https://www.linkedin.com/in/lini-b-asok/) | [Email](mailto:liniasok7@gmail.com) | [Portfolio](https://yourportfolio.com)
+[LinkedIn](https://www.linkedin.com/in/lini-asok-213915257/) | [Email](mailto:liniasok7@gmail.com) | [Portfolio](https://yourportfolio.com)
 
 ---
 
