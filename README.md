@@ -1,7 +1,3 @@
-<p align="center">
-  <!-- Animated emoji rain / fun background -->
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100%" />
-</p>
 
 # Hi, I’m Lini B Asok 👋
 *Full Stack Developer | React | Node.js | Java | Spring Boot*  
@@ -78,7 +74,3 @@ Always trying new things and learning every day.
 I combine **art, design, and coding** to create interactive and beautiful applications.  
 Always aiming for **progress, learning, and helping others along the way**.
 
-<p align="center">
-  <!-- Animated emoji rain -->
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" />
-</p>
