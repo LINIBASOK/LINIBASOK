@@ -1,3 +1,4 @@
+<div style="background-color:#f9f9f9; padding:20px; border-radius:10px; margin-bottom:15px;">
 
 # Hi, I’m Lini B Asok 👋
 *Full Stack Developer | React | Node.js | Java | Spring Boot*  
@@ -6,7 +7,9 @@ Currently based in **UAE**, actively exploring new opportunities in **software d
 I love *drawing, cooking, animals*, and building **smart, clean, and creative applications**.  
 Always trying new things and learning every day.  
 
----
+</div>
+
+<div style="background-color:#f9f9f9; padding:20px; border-radius:10px; margin-bottom:15px;">
 
 ## 🚀 About Me
 - Passionate about **coding, designing, and problem-solving**  
@@ -14,10 +17,13 @@ Always trying new things and learning every day.
 - Always exploring **new technologies and frameworks**  
 - Open to **collaboration and freelance projects**  
 
----
+</div>
+
+<div style="background-color:#f9f9f9; padding:20px; border-radius:10px; margin-bottom:15px;">
 
 ## 💻 Skills & Tools
 <div align="center">
+<!-- Add your badges here -->
 <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
 <a href="https://angular.io/" target="_blank"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /></a>
 <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /></a>
@@ -39,14 +45,18 @@ Always trying new things and learning every day.
 <a href="https://saas.com/" target="_blank"><img src="https://img.shields.io/badge/SaaS-FF8C00?style=for-the-badge&logoColor=white" /></a>
 </div>
 
----
+</div>
+
+<div style="background-color:#f9f9f9; padding:20px; border-radius:10px; margin-bottom:15px;">
 
 ## 📂 Projects
 - [**Portfolio**](https://yourportfolio.com) – Personal portfolio showcasing my projects and journey  
 - [**AI Interview Portal**](https://ai-interview-portal-tech-o8y5.vercel.app/) – Full-stack interview preparation app  
 - [**Other Projects**](https://github.com/LINIBASOK?tab=repositories) – Explore all my work on GitHub  
 
----
+</div>
+
+<div style="background-color:#f9f9f9; padding:20px; border-radius:10px; margin-bottom:15px;">
 
 ## 🏆 Achievements
 ![GitHub followers](https://img.shields.io/github/followers/LINIBASOK?style=social)
@@ -58,19 +68,26 @@ Always trying new things and learning every day.
 - 6 months experience in **Selenium Test Automation**  
 - Experienced as **Software Test Engineer (QA)** handling test cases & scenarios  
 
----
+</div>
+
+<div style="background-color:#f9f9f9; padding:20px; border-radius:10px; margin-bottom:15px;">
 
 ## 📫 Contact Me
 [LinkedIn](https://www.linkedin.com/in/lini-asok-213915257/) | [Email](mailto:liniasok7@gmail.com) | [Portfolio](https://yourportfolio.com)
 
----
+</div>
+
+<div style="background-color:#f9f9f9; padding:20px; border-radius:10px; margin-bottom:15px;">
 
 ## 📈 GitHub Stats
 ![Lini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LINIBASOK&show_icons=true&theme=radical)
 
----
+</div>
+
+<div style="background-color:#f9f9f9; padding:20px; border-radius:10px; margin-bottom:15px;">
 
 ### ⚡ Fun Fact
 I combine **art, design, and coding** to create interactive and beautiful applications.  
 Always aiming for **progress, learning, and helping others along the way**.
 
+</div>
