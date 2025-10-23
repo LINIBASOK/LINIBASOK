@@ -75,8 +75,8 @@ Always trying new things and learning every day.
 
 ## 📂 Projects
 - *[Portfolio](https://yourportfolio.com)* – Personal portfolio showcasing my projects and journey
-- **[AI Interview Portal](https://ai-interview-portal-tech-tys9-linibasoks-projects.vercel.app/)** – Full-stack interview preparation app
-- **[Other Projects](https://github.com/LINIBASOK?tab=repositories)** – Explore all my work on GitHub
+- **[AI Interview Portal]([https://ai-interview-portal-tech-tys9-linibasoks-projects.vercel.app/](https://ai-interview-portal-tech-o8y5.vercel.app/))** – Full-stack interview preparation app
+- **[Other Projects](https://github.com/LINIBASOK/LINIBASOK)** – Explore all my work on GitHub
 
 ---
 
@@ -92,7 +92,7 @@ Always trying new things and learning every day.
 ---
 
 ## 📫 Contact Me
-[LinkedIn]([https://www.linkedin.com/in/lini-b-asok](https://www.linkedin.com/in/lini-b-asok/)) | [Email](mailto:liniasok7@gmail.com) | [Portfolio](https://yourportfolio.com)
+[LinkedIn](https://www.linkedin.com/in/lini-b-asok/)| [Email](mailto:liniasok7@gmail.com) | [Portfolio](https://yourportfolio.com)
 
 ---
 
