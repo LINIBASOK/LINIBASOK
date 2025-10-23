@@ -1,4 +1,5 @@
-<div style="background-color:#f9f9f9; padding:20px; border-radius:10px; margin-bottom:15px;">
+<!-- Intro Section -->
+<div style="background-color:#f9f9f9; padding:20px; border-radius:10px; margin-bottom:15px; width:100%;">
 
 # Hi, I’m Lini B Asok 👋
 *Full Stack Developer | React | Node.js | Java | Spring Boot*  
@@ -9,7 +10,8 @@ Always trying new things and learning every day.
 
 </div>
 
-<div style="background-color:#f9f9f9; padding:20px; border-radius:10px; margin-bottom:15px;">
+<!-- About Me -->
+<div style="background-color:#f9f9f9; padding:20px; border-radius:10px; margin-bottom:15px; width:100%;">
 
 ## 🚀 About Me
 - Passionate about **coding, designing, and problem-solving**  
@@ -19,11 +21,12 @@ Always trying new things and learning every day.
 
 </div>
 
-<div style="background-color:#f9f9f9; padding:20px; border-radius:10px; margin-bottom:15px;">
+<!-- Skills -->
+<div style="background-color:#f9f9f9; padding:20px; border-radius:10px; margin-bottom:15px; width:100%;">
 
 ## 💻 Skills & Tools
 <div align="center">
-<!-- Add your badges here -->
+<!-- Add badges -->
 <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
 <a href="https://angular.io/" target="_blank"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /></a>
 <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /></a>
@@ -47,7 +50,8 @@ Always trying new things and learning every day.
 
 </div>
 
-<div style="background-color:#f9f9f9; padding:20px; border-radius:10px; margin-bottom:15px;">
+<!-- Projects -->
+<div style="background-color:#f9f9f9; padding:20px; border-radius:10px; margin-bottom:15px; width:100%;">
 
 ## 📂 Projects
 - [**Portfolio**](https://yourportfolio.com) – Personal portfolio showcasing my projects and journey  
@@ -56,7 +60,8 @@ Always trying new things and learning every day.
 
 </div>
 
-<div style="background-color:#f9f9f9; padding:20px; border-radius:10px; margin-bottom:15px;">
+<!-- Achievements -->
+<div style="background-color:#f9f9f9; padding:20px; border-radius:10px; margin-bottom:15px; width:100%;">
 
 ## 🏆 Achievements
 ![GitHub followers](https://img.shields.io/github/followers/LINIBASOK?style=social)
@@ -70,21 +75,26 @@ Always trying new things and learning every day.
 
 </div>
 
-<div style="background-color:#f9f9f9; padding:20px; border-radius:10px; margin-bottom:15px;">
+<!-- Contact Buttons -->
+<div style="background-color:#f9f9f9; padding:20px; border-radius:10px; margin-bottom:15px; width:100%; text-align:center;">
 
 ## 📫 Contact Me
-[LinkedIn](https://www.linkedin.com/in/lini-asok-213915257/) | [Email](mailto:liniasok7@gmail.com) | [Portfolio](https://yourportfolio.com)
+<a href="https://www.linkedin.com/in/lini-asok-213915257/" target="_blank" style="text-decoration:none;"><button style="background-color:#0077B5; color:white; padding:10px 20px; margin:5px; border:none; border-radius:5px; cursor:pointer;">LinkedIn</button></a>
+<a href="mailto:liniasok7@gmail.com" style="text-decoration:none;"><button style="background-color:#D14836; color:white; padding:10px 20px; margin:5px; border:none; border-radius:5px; cursor:pointer;">Email</button></a>
+<a href="https://yourportfolio.com" target="_blank" style="text-decoration:none;"><button style="background-color:#4CAF50; color:white; padding:10px 20px; margin:5px; border:none; border-radius:5px; cursor:pointer;">Portfolio</button></a>
 
 </div>
 
-<div style="background-color:#f9f9f9; padding:20px; border-radius:10px; margin-bottom:15px;">
+<!-- GitHub Stats -->
+<div style="background-color:#f9f9f9; padding:20px; border-radius:10px; margin-bottom:15px; width:100%;">
 
 ## 📈 GitHub Stats
 ![Lini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LINIBASOK&show_icons=true&theme=radical)
 
 </div>
 
-<div style="background-color:#f9f9f9; padding:20px; border-radius:10px; margin-bottom:15px;">
+<!-- Fun Fact -->
+<div style="background-color:#f9f9f9; padding:20px; border-radius:10px; margin-bottom:15px; width:100%;">
 
 ### ⚡ Fun Fact
 I combine **art, design, and coding** to create interactive and beautiful applications.  
